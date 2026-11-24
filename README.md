@@ -1,6 +1,6 @@
 ### Michael Dagan
 
-Network and cloud security, and the systems I build and run on top of it: servers, pipelines and AI agents that run every day. AWS Certified Solutions Architect - Associate, with six years of technical operations and project management underneath.
+Hands-on network and cloud security. I also run my own systems, secured the same way: two cloud servers, a home lab and twelve AI agents that work every day. AWS Certified Solutions Architect - Associate, with six years of technical operations and project management underneath.
 
 **In public here**
 
